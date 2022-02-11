@@ -63,7 +63,7 @@ $ php artisan test
 
 ## Postman Api Documentation
 The postman doc with the api urls, paramaters passed and http reponse.
-Check it out [Bank account api postman](https://www.getpostman.com/collections/e7a7ba669518254e3fd4)
+Check it out [Bank account api postman](https://documenter.getpostman.com/view/12575851/UVeMJj4M)
 
 ## Built With 
 - [Laravel](https://laravel.com/) - The PHP framework for building the API endpoints needed for the application
